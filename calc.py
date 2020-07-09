@@ -1,4 +1,4 @@
-#5-Function Calculator
+#5-Function Calculator!!
 def calculate():
     operation = input('''
 Welcome! Please type in the math operation you would like to calculate:
@@ -7,7 +7,6 @@ Welcome! Please type in the math operation you would like to calculate:
 * to Multiply
 / to Divide
 ^ for Exponents
-log for Logs
 ''')
 
     number_1 = int(input('Please enter the first number: '))
